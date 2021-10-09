@@ -25,14 +25,14 @@
 
 - 🔭 I’m currently working on [Orderla.my](https://orderla.my/).
 - 🌱 I’m currently learning more about ReactJS.  
-- 💬 Ask me about Laravel or any tech-related stuff.
+- 💬 I'm currently second year student of UiTM Shah Alam, Bachelor of Information Systems (Hons.) Information Systems Engineering.
 - 📫 How to reach me: [Telegram - @afrinajr](https://t.me/afrinajr) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Listening to sad songs really help me to write my codes well.
 
-[![Instagram: afrina](https://img.shields.io/instagram/follow/afrinajr?style=social)](https://instagram.com/afrinajr)
+[![Instagram: afrinajr](https://img.shields.io/instagram/follow/afrinajr?style=social)](https://instagram.com/afrinajr)
 [![Linkedin: Nur Afrina](https://img.shields.io/badge/-afrinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afrinajr/)](https://www.linkedin.com/in/nur-afrina-8089a81a8/)
-[![GitHub afrinajr](https://img.shields.io/github/followers/afrinajr?label=follow&style=social)](https://github.com/afrinajafri)
+[![GitHub afrinajafri](https://img.shields.io/github/followers/afrinajr?label=follow&style=social)](https://github.com/afrinajafri)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-Afrina.live-2648ff?style=flat-square&logo=google-chrome)](https://Afrina.live/) -->
 
 
