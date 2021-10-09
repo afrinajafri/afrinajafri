@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/nur-afrina-8089a81a8/">
   <img align="left" alt="Afrina's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/afrinajr">
+<a href="https://github.com/afrinajafri">
   <img align="left" alt="Afrina's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/afrinajr">
@@ -31,24 +31,23 @@
 - ⚡ Fun fact: Listening to sad songs really help me to write my codes well.
 
 [![Instagram: afrina](https://img.shields.io/instagram/follow/afrinajr?style=social)](https://instagram.com/afrinajr)
-[![Linkedin: Nur Afrina](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/nur-afrina-8089a81a8/)
-[![GitHub afrinajr](https://img.shields.io/github/followers/afrinajr?label=follow&style=social)](https://github.com/afrinajr)
+[![Linkedin: Nur Afrina](https://img.shields.io/badge/-afrinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afrinajr/)](https://www.linkedin.com/in/nur-afrina-8089a81a8/)
+[![GitHub afrinajr](https://img.shields.io/github/followers/afrinajr?label=follow&style=social)](https://github.com/afrinajafri)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-Afrina.live-2648ff?style=flat-square&logo=google-chrome)](https://Afrina.live/) -->
 
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laragon/laragon.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>     
 
-<a href="https://github.com/afrinajr">
+<a href="https://github.com/afrinajafri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrinajr&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/afrinajr">
+<a href="https://github.com/afrinajafri">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinajr&show_icons=true&theme=dark&line_height=27" alt="Afrina's github stats"/>
 </a>  
 
