@@ -28,12 +28,7 @@
 - 💬 I'm currently second year student of UiTM Shah Alam, Bachelor of Information Systems (Hons.) Information Systems Engineering.
 - 📫 How to reach me: [Telegram - @afrinajr](https://t.me/afrinajr) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Listening to sad songs really help me to write my codes well.
-
-[![Instagram: afrinajr](https://img.shields.io/instagram/follow/afrinajr?style=social)](https://instagram.com/afrinajr)
-[![Linkedin: Nur Afrina](https://img.shields.io/badge/-afrinajr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afrinajr/)](https://www.linkedin.com/in/nur-afrina-8089a81a8/)
-[![GitHub afrinajafri](https://img.shields.io/github/followers/afrinajr?label=follow&style=social)](https://github.com/afrinajafri)
-<!-- [![website](https://img.shields.io/badge/PortfolioWebsite-Afrina.live-2648ff?style=flat-square&logo=google-chrome)](https://Afrina.live/) -->
+- ⚡ Fun fact: Listening to sad songs really help me to write my codes well. 
 
 
 **Languages and Tools:**  
@@ -43,6 +38,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>     
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scss/scss.png"></code>   
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>   
 
 <a href="https://github.com/afrinajafri">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrinajafri&theme=dark&hide_langs_below=1" />
