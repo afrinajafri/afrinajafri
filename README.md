@@ -44,7 +44,7 @@
 </a> 
 
 <a href="https://github.com/afrinajafri">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=nblhuda&count_private=true&show_icons=true&&theme=dark&include_all_commits=true&line_height=27" alt="Afrina's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinajafri&count_private=true&show_icons=true&&theme=dark&include_all_commits=true&line_height=27" alt="Afrina's github stats"/>
 </a>  
 
 <div align="center">
