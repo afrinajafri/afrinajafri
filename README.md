@@ -22,9 +22,7 @@
 <br/>
 <br/>
 
-
-- 🔭 I’m currently working on [Orderla.my](https://orderla.my/).
-- 🌱 I’m currently learning more about ReactJS.  
+ 
 - 💬 I'm currently second year student of UiTM Shah Alam, Bachelor of Information Systems (Hons.) Information Systems Engineering.
 - 📫 How to reach me: [Telegram - @afrinajr](https://t.me/afrinajr) 
 - 😄 Pronouns: She/Her
