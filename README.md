@@ -23,8 +23,8 @@
 <br/>
 
  
-- 💬 I'm currently second year student of UiTM Shah Alam, Bachelor of Information Systems (Hons.) Information Systems Engineering.
-- 📫 How to reach me: [Telegram - @afrinajr](https://t.me/afrinajr) 
+- 💬 I'm currently second year student, Bachelor of Information Systems (Hons.) Information Systems Engineering.
+<!-- - 📫 How to reach me: [Telegram - @afrinajr](https://t.me/afrinajr)  -->
 - 😄 Pronouns: She/Her
 - ⚡ I believe technology can transforms humanity billion steps further!
 
