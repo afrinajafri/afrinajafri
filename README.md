@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinajr&label=Views&color=blue&style=plastic" alt="afrinajr" /> </p> -->
  
-<a href="https://www.linkedin.com/in/nur-afrina-8089a81a8/">
+<!-- <a href="https://www.linkedin.com/in/nur-afrina-8089a81a8/">
   <img align="left" alt="Afrina's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/afrinajafri">
@@ -17,7 +17,7 @@
 
 <a href="https://www.youtube.com/channel/UC0idiSzSkJpJ0WNimfzakwg">
   <img align="left" alt="Afrina's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+</a> -->
 
 <br/>
 <br/>
